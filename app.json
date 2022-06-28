@@ -1,0 +1,6 @@
+{
+    "name": "PhotoAlbum",
+    "description": "Photo album software",
+    "keywords": ["photos", "album", "machine learning"],
+    "repository": "https://github.com/DenLes/photoalbum"
+}
