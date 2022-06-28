@@ -1,3 +1,22 @@
 {
-    "files": ["README.md"]
+  "files": [
+    "README.md"
+  ],
+  "projectName": "photoalbum",
+  "projectOwner": "DenLes",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true,
+  "contributors": [
+    {
+      "login": "DenLes",
+      "name": "Denis Lessard",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3173496?v=4",
+      "profile": "https://denles.github.io",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
 }
